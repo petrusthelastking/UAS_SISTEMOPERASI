@@ -51,3 +51,10 @@ Output dari perintah free -h di-pipe ke perintah awk. Dalam awk, /^Mem:/ digunak
 ![image](https://github.com/petrusthelastking/UAS_SISTEMOPERASI/assets/143620112/90e9897b-7697-45e1-be66-b0c51ede1e84)
 
 
+
+## SC ISI GIT
+
+![image](https://github.com/petrusthelastking/UAS_SISTEMOPERASI/assets/143620112/b6e76995-37d5-499b-bc77-d634171502df)
+
+
+
