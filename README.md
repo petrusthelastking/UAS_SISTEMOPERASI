@@ -37,3 +37,8 @@
 | 15     | Lihat Penggunaan CPU       | Melihat Informasi tersebut menggunakan **_lscpu, cat /proc/cpuinfoe_** |
 | 16     | Lihat Penggunaan RAM       | Melihat Informasi tersebut menggunakan **_free_**                      |
 
+
+## SCREENSHOT PROGRAM
+
+![image](https://github.com/petrusthelastking/UAS_SISTEMOPERASI/assets/143620112/800d7ad9-6cd6-48cc-9dc4-46d74e7aef4a)
+
